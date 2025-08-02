@@ -1,4 +1,4 @@
-# 🌐 Anish Choudhary | Personal Portfolio Website
+# 🌐 KESHAV SINGH CHAUHAN | Personal Portfolio Website
 
 Welcome to my **personal developer portfolio**, built with ❤️ using modern web technologies like **HTML**, **CSS**, and enhanced with **scroll animations** and **3D effects**. This responsive website showcases my journey, skills, and featured projects.
 
@@ -38,6 +38,6 @@ Hi, I'm **Anish Choudhary**, a passionate front-end developer and UI/UX designer
 ## 💻 How to Use Locally
 
 ```bash
-git clone https://github.com/Anishakki01/portfolio-anish.git
+git clone https://https://github.com/keshavd9605/keshav-portfolio
 cd portfolio-anish
 # Then open index.html in any browser
