@@ -24,7 +24,7 @@ Hi, I'm **Anish Choudhary**, a passionate front-end developer and UI/UX designer
 
 ## 📂 Sections Included
 
-- ✅ Hero Section with animated intro
+- ✅ Hero Section with animated intrO
 - ✅ About Me
 - ✅ Skills Grid
 - ✅ Projects Cards with 3D tilt
